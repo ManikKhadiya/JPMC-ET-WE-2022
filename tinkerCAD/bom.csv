@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"-26.072988970797667 , -195.04084676204786 , -170.29589876698952 , -230.140374293432  PIR Sensor"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"R1",1," Force Sensor"
+"D1",1,"White LED"
+"D2",1,"Blue LED"
+"D3",1,"Green LED"
+"D4",1,"Yellow LED"
+"D5",1,"Orange LED"
+"D6",1,"Red LED"
+"R2",1,"220 Ω Resistor"
+"R3",1,"9.1 kΩ Resistor"
